@@ -15,10 +15,6 @@ const books = [
   },
 ];
 
-const Usuer = [{}];
-
-
-console.log(typeof (gql), gql)
 // gql es un interprete de los datos y accciones para la aplicaciom
 const typeDefs = gql`
   type AllBookType {
